@@ -1,0 +1,72 @@
+C:\Visual Studio\Memory Game\bin\Debug\Memory Game.exe.config
+C:\Visual Studio\Memory Game\bin\Debug\Memory Game.exe
+C:\Visual Studio\Memory Game\bin\Debug\Memory Game.pdb
+C:\Visual Studio\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+C:\Visual Studio\Memory Game\obj\Debug\Memory Game.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Visual Studio\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Visual Studio\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+C:\Visual Studio\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Memory Game\obj\Debug\Memory Game.exe
+C:\Visual Studio\Memory Game\obj\Debug\Memory Game.pdb
+C:\Visual Studio\Memory Game\obj\Debug\Memory_Game.Form2.resources
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\bin\Debug\Memory Game.exe.config
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Form2.resources
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\Tosha\Desktop\Memory Gamea\Memory Game\obj\Debug\Memory Game.pdb
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\bin\Debug\Memory Game.exe.config
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Form2.resources
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\Tosha\Desktop\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.pdb
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\bin\Debug\Memory Game.exe.config
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Form2.resources
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\Tosha\Desktop\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.pdb
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\bin\Debug\Memory Game.exe.config
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\User\OneDrive\Рабочий стол\JS\Memory Game8\Memory Gamea2\Memory Gamea1\Memory Gamea\Memory Game\obj\Debug\Memory Game.pdb
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\bin\Debug\Memory Game.exe.config
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\bin\Debug\Memory Game.exe
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\bin\Debug\Memory Game.pdb
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Form2.resources
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\obj\Debug\Memory_Game.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\obj\Debug\Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\obj\Debug\Memory Game.exe
+C:\Users\User\OneDrive\Рабочий стол\Memory Game\Memory Gamea\Memory Gamea\Memory Game\obj\Debug\Memory Game.pdb
